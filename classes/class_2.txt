@@ -1,0 +1,14 @@
+Class: Sports Teams
+
+Attributes:
+playerCount (integer)
+equipmentUsed (array)
+arenaType (string)
+isCoed (boolean)
+playerNames (array)
+
+Methods:
+replacePlayer (removes a player form the playerNames array and adds another)
+changeEquipment (replaces an item in the equipmentUsed array with another item)
+addNewGender (changes the isCoed from false to true)
+adjustPlayerCount (adds or removes a new player)

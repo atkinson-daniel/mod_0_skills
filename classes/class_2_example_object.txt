@@ -1,0 +1,14 @@
+Object: Softball Team
+
+Attributes:
+playerCount 15
+equipmentUsed {"softball", "bat", "glove"}
+arenaType "Baseball Field"
+isCoed false
+playerNames {"Stacy", "Rachel", "Aubree", "Stephanie", "Courtney", "Beka"}
+
+Methods:
+replacePlayer {"Stacy", "Rachel", "Aubree", "Stephanie", "Courtney", "Jim"}
+changeEquipment {"baseball", "bat", "glove"}
+addNewGender true
+adjustPlayerCount 14
