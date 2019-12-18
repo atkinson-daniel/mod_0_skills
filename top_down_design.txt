@@ -1,0 +1,26 @@
+
+1 Research coding bootcamps in Colorado
+ 1.1 Find reviews about Galvanize Boulder, Turing, and Flatiron School
+2 Determine Turing is the right fit for you
+ 2.1 Attend workshops and events at all three schools identified in step 1
+   2.1.1 Attend Galvanize's HTML/CSS workshop
+   2.1.2 Attend Turing's Try Coding weekend
+ 2.2 Talk to current students and alumni about their experience in coding school
+   2.2.1 Review alumni's LinkedIn pages to see if they have software engineering jobs
+ 2.3 Recognize Turing has the best reviews and curriculum
+ 2.4 No longer consider other options
+3 Apply to Turing
+ 3.1 Navigate to apply.turing.io
+ 3.2 Click "Apply Now" and fill out three sections:
+   3.2.1 Fill out your Basic Identity and Contact Information
+   3.2.2 Fill out your Work History
+   3.2.3 Complete the Logic Quiz
+4 Set up interview with Turing staff
+5 Complete final interview
+ 5.1 Log into Zoom and start interview session
+ 5.2 Respond to interview questions regarding past work history and culture fit
+ 5.3 Complete the logic quiz
+6 Wait for acceptance email
+7 Pay $1,200 deposit and commit to a payment plan
+8 Enroll in a Mod0 cohort
+9 Wait for your session to start
