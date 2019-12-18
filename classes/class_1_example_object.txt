@@ -1,0 +1,14 @@
+Object: Chicken Salad
+
+Attributes:
+price: 10.99
+ingredients {"Romaine lettuce", "grilled chicken", "Soy Sauce dressing", "croutons", "pine nuts"}
+isSpicy false
+allergens {"Gluten", "Soy", "Nuts"}
+
+Methods:
+giveTenPercentDiscount 10.99 * 0.90 = 9.89
+makeSpicy true
+makeNutFree {"Gluten", "Soy"}
+removeIngredient: ingredients = {"Romaine lettuce", "grilled chicken", "Soy Sauce dressing", "croutons"} AND allergens = {"Gluten", "Soy"}
+addIngredient {"Romaine lettuce", "grilled chicken", "Soy Sauce dressing", "croutons", "carrots"}
