@@ -1,0 +1,14 @@
+Class: Menu Item
+
+Attributes:
+price (float)
+name (string)
+ingredients (array)
+isSpicy (boolean)
+isVegan (boolean)
+
+Methods:
+giveTenPercentDiscount (decreases the price attribute by 10%)
+makeSpicy (changes the isSpicy attribute from false to true)
+makeVegan (removes animal products from ingredients array and changes the isVegan attribute to true)
+changeName (updates the name attribute to a new name)
