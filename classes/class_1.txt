@@ -1,4 +1,4 @@
-Class: Menu Item
+Class: MenuItem
 
 Attributes:
 price (float)

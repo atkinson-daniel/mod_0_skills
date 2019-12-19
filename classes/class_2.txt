@@ -1,4 +1,4 @@
-Class: Sports Teams
+Class: SportsTeam
 
 Attributes:
 playerCount (integer)
